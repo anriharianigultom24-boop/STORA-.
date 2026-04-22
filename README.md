@@ -1,0 +1,2 @@
+# STORA-.
+Manajemen Pergudangan
